@@ -1,0 +1,310 @@
+.circle {
+    width: 40px;
+    height: 40px;
+    margin-left: 200px;
+    margin-top: 36px;
+}
+
+.back-grey-color {
+    background-color: #F8F8F8;
+}
+
+.star {
+    width: 214px;
+    height: 33px;
+    margin-top: 145px;
+    line-height: 36px;
+    margin-left: -200px;
+}
+
+.text2 {
+    font-family: 'text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    text-align: left;
+}
+
+.back-grey-color-margin-top {
+    margin-top: 36px;
+    background-color: #f8f8f8;
+}
+
+.home-button {
+    margin-left: 199px;
+    text-decoration: none;
+    color: #222222;
+}
+
+.margin-right-buttons {
+    margin-right: 35px;
+    text-decoration: none;
+
+}
+
+.color-button {
+    color: lightgrey;
+}
+
+.login-button {
+    margin-left: 250px;
+    margin-top: 36px;
+
+    position: absolute;
+    width: 132px;
+    height: 45px;
+
+    border: 1px solid orange;
+    color: orange;
+    border-radius: 7px;
+
+    background: white;
+}
+
+.register-button {
+    margin-top: 36px;
+    margin-left: 420px;
+    margin-right: 193px;
+
+    position: absolute;
+    width: 132px;
+    height: 45px;
+
+    background: orange;
+    color: white;
+    border-radius: 7px;
+
+    border: 1px solid white;
+}
+
+
+.header1-left-align {
+
+    font-family: 'Guids Display';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 50px;
+
+    text-align: left;
+
+    color: black;
+
+    mix-blend-mode: normal;
+}
+
+.text1 {
+
+
+    font-family: 'text';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 30px;
+
+    text-align: left;
+
+
+
+    color: grey;
+
+}
+
+.image_1 {
+    width: 600px;
+    height: 544px;
+}
+
+.table1 {
+    margin-left: 197px;
+    margin-right: 197px;
+    margin-top: 175px;
+}
+
+.photographer {
+    width: 380px;
+    margin-left: 245px;
+    margin-top: 190px;
+}
+
+.table2 {
+    margin-left: 197px;
+    margin-right: 197px;
+    margin-top: 30px;
+}
+
+.image {
+    margin-top: 10 px;
+    width: 255px;
+
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.grey-block-margin-top {
+    margin-top: 90px;
+    height: 774px;
+}
+
+.download-button {
+    margin-top: 36px;
+    margin-left: 0px;
+    margin-right: 400px;
+
+    width: 132px;
+    height: 44px;
+
+    background: orange;
+    color: white;
+    border-radius: 8px;
+
+    border: 1px solid white;
+}
+
+.testimonials {
+    margin-top: 80px;
+    text-align: left;
+}
+
+.edward-newgate {
+    font-family: 'Edward Newgate';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 48px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+
+.founder-circle {
+    font-family: 'Edward Newgate';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 48px;
+    color: rgba(0, 0, 0, 0.85);
+    text-align: left;
+    margin-top: 10px;
+}
+
+.trending-stories-table {
+    margin-top: 70px;
+    margin-left: 193px;
+}
+
+.view-all {
+    margin-left: 800px;
+    font-family: 'Edward Newgate';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 60px;
+
+    display: flex;
+    align-items: center;
+
+    color: #FB8F1D;
+
+    mix-blend-mode: normal;
+}
+
+.images-table {
+    margin-top: 35px;
+    margin-left: 193px;
+    margin-right: 193px;
+}
+
+.read-more {
+    font-family: 'Edward Newgate';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 28px;
+
+    margin-left: 5px;
+
+    color: #FB8F1D;
+
+    mix-blend-mode: normal;
+    float: left;
+    text-decoration: none;
+}
+
+.image-text {
+    text-align: left;
+    font-family: 'Edward Newgate';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+
+    margin-left: 5px;
+    margin-right: 5px;
+
+    color: #7D7987;
+
+    mix-blend-mode: normal;
+}
+
+.image-header {
+    font-family: 'Edward Newgate';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+
+    margin-left: 5px;
+    margin-right: 5px;
+
+    color: black;
+
+    mix-blend-mode: normal;
+    text-align: left;
+}
+
+.grey-circle {
+    margin-top: 30px;
+    margin-left: 193px;
+}
+
+.rights-text {
+    font-family: 'text';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 17px;
+    line-height: 30px;
+    margin-left: 800px;
+
+    margin-top: 40px;
+
+    color: darkgrey;
+
+    mix-blend-mode: normal;
+}
+
+.fa-brands {
+    height: 17px;
+    margin-bottom: 40px;
+    margin-right: 12px;
+    margin-top: 20px;
+}
+
+.fa-twitter {
+    margin-left: 690px;
+    margin-right: 12px;
+}
+
+.line {
+    position: absolute;
+    width: 1150px;
+    height: 0.6px;
+
+    margin-left: 193px;
+
+    background: #F8F8F8;
+}
+
+.image-block {
+    margin: auto;
+}
